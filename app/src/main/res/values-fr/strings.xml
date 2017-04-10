@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProjetAndroid</string>
+    <string name="login">email:</string>
+    <string name="connect">Se connecter</string>
+    <string name="unknown_error">Erreur inconnue</string>
+    <string name="password">Mot de passe:</string>
+    <string name="ButtonBottom2">Doublages</string>
+    <string name="ButtonBottom1">Scènes</string>
+    <string name="ButtonBottom3">Profil</string>
+    <string name="InvalidEmail">L\'email entré n\'est pas valide.</string>
+    <string name="auth_failed">L\'authentification a échoué.</string>
+    <string name="hello_blank_fragment">Salut fragment vide</string>
+    <string name="title_activity_main">Activité principale</string>
+    <string name="LogInButton">Se connecter</string>
+    <string name="RegisterButton">S\'enregistrer</string>
+    <string name="or">ou</string>
+    <string name="upload_fail">Le téléchargement a échoué</string>
+    <string name="camera">Camera</string>
+    <string name="capture">Capture</string>
+    <string name="cover">Cover</string>
+    <string name="menu_scene">Scenes</string>
+    <string name="menu_dubbling">Doublages</string>
+    <string name="menu_profile">Profil</string>
+    <string name="RegisterFail">Impossible de vous enregistrer</string>
+    <string name="registerButton">s\'inscrire</string>
+</resources>

@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "674853905660",
+    "firebase_url": "https://scenecoversproject.firebaseio.com",
+    "project_id": "scenecoversproject",
+    "storage_bucket": "scenecoversproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674853905660:android:993f78eb81534108",
+        "android_client_info": {
+          "package_name": "com.example.chcurmont.projetandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674853905660-j5qmsdbi079u4u20sbrl7v9ph1704af4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chcurmont.projetandroid",
+            "certificate_hash": "2b0b152b4db1ae11f1d9c014a6e6d74276e10eb8"
+          }
+        },
+        {
+          "client_id": "674853905660-7ttj970lgsr7atog85vncrc4dbq02poh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chcurmont.projetandroid",
+            "certificate_hash": "9d9c52b67713d56b08cd9521bd826adbbae5d26a"
+          }
+        },
+        {
+          "client_id": "674853905660-c56hjg89vjuuuvklrerc39cdas6cnjpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ5j4Uww6HYvFrm8z-6P6A-dRnZIzJXQE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674853905660-c56hjg89vjuuuvklrerc39cdas6cnjpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,28 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.chcurmont.projetandroid.SceneFragment">
+
+
+
+    <ListView
+        android:id="@+id/ScenesListView"
+        android:layout_width="match_parent"
+        android:layout_height="419dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:scrollbars="vertical">
+
+    </ListView>
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="373dp"
+        android:layout_height="wrap_content"
+
+        android:text="Camera" />
+
+
+</FrameLayout>

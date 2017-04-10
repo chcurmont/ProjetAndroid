@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AndroidProject</string>
+    <string name="login">email:</string>
+    <string name="connect">Connect</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="password">Password:</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ButtonBottom1">Scenes</string>
+    <string name="ButtonBottom2">Dubbling</string>
+    <string name="ButtonBottom3">Profile</string>
+    <string name="InvalidEmail">The email you have entered is invalid.</string>
+    <string name="auth_failed">The authentification has failed.</string>
+    <string name="LogInButton">Log In</string>
+    <string name="RegisterButton">Sign In</string>
+    <string name="or">or</string>
+    <string name="upload_fail">The upload has failed.</string>
+    <string name="camera">Camera</string>
+    <string name="cover">Cover</string>
+    <string name="capture">Capture</string>
+    <string name="menu_scene">Scenes</string>
+    <string name="menu_dubbling">Dubbling</string>
+    <string name="menu_profile">Profile</string>
+    <string name="RegisterFail">fail to register your account.</string>
+    <string name="registerButton">sign up</string>
+</resources>
